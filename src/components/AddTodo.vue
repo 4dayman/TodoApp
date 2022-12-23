@@ -43,6 +43,7 @@ export default {
         border: none;
         color: #fff;
         min-width: 90px;
+        height: 35px;
         border-radius: 5px;
     }
 </style>
