@@ -4,6 +4,10 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </nav>
+    <h1>Todo application</h1>
+    <h2>on</h2>
+    <img alt="Vue logo" src="./assets/logo.png">
+    <hr>
     <router-view/>
   </div>
 </template>
